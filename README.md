@@ -15,5 +15,8 @@ For help getting started with Flutter, view our
 [online documentation](https://flutter.dev/docs), which offers tutorials,
 samples, guidance on mobile development, and a full API reference.
 
+## Caution
+- The app doesn't have database, so you can't save your data.
+
 ## App UI
 ![IMG_2984](https://user-images.githubusercontent.com/16436985/111900779-c2ddf700-8a77-11eb-89d6-900135e2b97c.PNG)
